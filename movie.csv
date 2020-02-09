@@ -1,0 +1,7 @@
+movieID,movieGenre,name_mov,score1,score2,score3,score4,score5
+1,CRIME,Pulp Fiction,5,4,3,4,5
+2,MYSTERY,Mystic River,4,3,2,4,4
+3,COMEDY,Fifty First Dates,4,0,1,5,3
+4,CRIME,Django Unchained,0,3,5,4,3
+5,HORROR,Ring,5,4,5,1,1
+6,MYSTERY,Shutter Island,4,3,0,4,4
