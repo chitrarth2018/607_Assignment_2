@@ -1,0 +1,15 @@
+---
+title: "607 - Assignment 2"
+author: "Chitrarth Kaushik"
+date: "2/9/2020"
+output: html_document
+---
+
+The below r chunk imports the 
+```{r importing the csv, eval=TRUE}
+x <- "https://raw.githubusercontent.com/chitrarth2018/607_Assignment_2/master/movie.csv"
+Movie <- read.csv(file = x, head = TRUE, sep=",")
+```
+
+
+
